@@ -1,0 +1,8 @@
+name: Paragraph limiter widget
+type: module
+description: Provides a paragraphs widget that allows number of reference limitations.
+package: field
+core: 8.x
+dependencies:
+  - paragraphs
+  - narrow_widgets
